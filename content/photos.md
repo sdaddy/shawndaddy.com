@@ -45,6 +45,3 @@ seo:
 layout: page
 
 ---
-<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script
-
-<iframe src="https://cdn.lightwidget.com/widgets/e24f24bf6610536598bdf0b9cfefad6c.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
