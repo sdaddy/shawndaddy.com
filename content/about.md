@@ -1,45 +1,50 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
-img_alt: A man standing on a rock outside the cave
+title: Photos
+subtitle: Instagram Feed
+img_path: ''
+img_alt: ''
 seo:
   type: stackbit_page_meta
   template: stackbit_page_meta
-  title: About Me
-  description: This is the about me page
+  title: Photos
+  description: Instagram Feed
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: About Me
-      keyName: property
-    - name: 'og:description'
-      value: This is the about me page
-      keyName: property
-    - name: 'og:image'
-      value: images/about.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About Me
-    - name: 'twitter:description'
-      value: This is the about me page
-    - name: 'twitter:image'
-      value: images/about.jpg
-      relativeUrl: true
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: About Me
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the about me page
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/about.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: About Me
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the about me page
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/about.jpg
+    relativeUrl: true
+    keyName: ''
+  robots: []
 layout: page
+
 ---
+<script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+<iframe src="https://cdn.lightwidget.com/widgets/e24f24bf6610536598bdf0b9cfefad6c.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
