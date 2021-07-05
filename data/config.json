@@ -23,28 +23,8 @@
       {
         "type": "action",
         "template": "action",
-        "label": "About",
-        "url": "/about",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Style Guide",
-        "url": "/style-guide",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Contact",
-        "url": "/contact",
+        "label": "Photos",
+        "url": "/photos",
         "style": "link",
         "icon_class": "",
         "new_window": false,
