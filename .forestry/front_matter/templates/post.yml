@@ -52,7 +52,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- content/posts/basic-rules-for-walking-in-the-mountains.md
-- content/posts/fox-village-in-japan.md
-- content/posts/moving-to-new-york.md
